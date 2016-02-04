@@ -1,4 +1,4 @@
-Maksuturva Payment Gateway for osCommerce Online Merchant 2.3
+Maksuturva payment module for osCommerce Online Merchant 2.3
 ==========================================================
 Copyright (C) 2016 Maksuturva Group Oy
 
